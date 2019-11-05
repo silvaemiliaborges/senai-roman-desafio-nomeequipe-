@@ -1,0 +1,14 @@
+C:\Users\43121017870\Pictures\senai-roman-desafio-nomeequipe-\Api\Senai.Roman.Api\Senai.Roman.Api\bin\Debug\netcoreapp2.1\Senai.Roman.Api.deps.json
+C:\Users\43121017870\Pictures\senai-roman-desafio-nomeequipe-\Api\Senai.Roman.Api\Senai.Roman.Api\bin\Debug\netcoreapp2.1\Senai.Roman.Api.runtimeconfig.json
+C:\Users\43121017870\Pictures\senai-roman-desafio-nomeequipe-\Api\Senai.Roman.Api\Senai.Roman.Api\bin\Debug\netcoreapp2.1\Senai.Roman.Api.runtimeconfig.dev.json
+C:\Users\43121017870\Pictures\senai-roman-desafio-nomeequipe-\Api\Senai.Roman.Api\Senai.Roman.Api\bin\Debug\netcoreapp2.1\Senai.Roman.Api.dll
+C:\Users\43121017870\Pictures\senai-roman-desafio-nomeequipe-\Api\Senai.Roman.Api\Senai.Roman.Api\obj\Debug\netcoreapp2.1\Senai.Roman.Api.csprojAssemblyReference.cache
+C:\Users\43121017870\Pictures\senai-roman-desafio-nomeequipe-\Api\Senai.Roman.Api\Senai.Roman.Api\obj\Debug\netcoreapp2.1\Senai.Roman.Api.csproj.CoreCompileInputs.cache
+C:\Users\43121017870\Pictures\senai-roman-desafio-nomeequipe-\Api\Senai.Roman.Api\Senai.Roman.Api\obj\Debug\netcoreapp2.1\Senai.Roman.Api.RazorAssemblyInfo.cache
+C:\Users\43121017870\Pictures\senai-roman-desafio-nomeequipe-\Api\Senai.Roman.Api\Senai.Roman.Api\obj\Debug\netcoreapp2.1\Senai.Roman.Api.RazorAssemblyInfo.cs
+C:\Users\43121017870\Pictures\senai-roman-desafio-nomeequipe-\Api\Senai.Roman.Api\Senai.Roman.Api\obj\Debug\netcoreapp2.1\Senai.Roman.Api.AssemblyInfoInputs.cache
+C:\Users\43121017870\Pictures\senai-roman-desafio-nomeequipe-\Api\Senai.Roman.Api\Senai.Roman.Api\obj\Debug\netcoreapp2.1\Senai.Roman.Api.AssemblyInfo.cs
+C:\Users\43121017870\Pictures\senai-roman-desafio-nomeequipe-\Api\Senai.Roman.Api\Senai.Roman.Api\obj\Debug\netcoreapp2.1\Senai.Roman.Api.RazorTargetAssemblyInfo.cache
+C:\Users\43121017870\Pictures\senai-roman-desafio-nomeequipe-\Api\Senai.Roman.Api\Senai.Roman.Api\bin\Debug\netcoreapp2.1\Senai.Roman.Api.pdb
+C:\Users\43121017870\Pictures\senai-roman-desafio-nomeequipe-\Api\Senai.Roman.Api\Senai.Roman.Api\obj\Debug\netcoreapp2.1\Senai.Roman.Api.dll
+C:\Users\43121017870\Pictures\senai-roman-desafio-nomeequipe-\Api\Senai.Roman.Api\Senai.Roman.Api\obj\Debug\netcoreapp2.1\Senai.Roman.Api.pdb
